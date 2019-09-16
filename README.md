@@ -1,2 +1,3 @@
 # Throne-of-Knowledge
-A good place to start from if you're in need of explanations or documentation
+
+[Guide & Help](https://github.com/three-houses-research-team/Throne-of-Knowledge/wiki)
