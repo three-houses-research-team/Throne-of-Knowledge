@@ -196,7 +196,6 @@
 0x00C1 = 3313 = War Master
 0x00C2 = 3314 = Gremory
 0x00C3 = 3315 = Emperor
-0x00C4 = 3316 = Agastya
 0x00C5 = 3317 = Male Enlightened One
 0x00C6 = 3318 = Female Enlightened One
 0x00C7 = 3319 = Female Dancer
