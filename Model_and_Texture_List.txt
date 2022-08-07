@@ -3028,7 +3028,7 @@ Global  --  Local  --  Gender  --  Description  --
 35714  --  491  --  M  --  House Loungewear M  --
 35715  --  492  --  F  --  House Loungewear F  --
 35716  --  493  --  M  --  Sothis Regalia M  --
-35717  --  494  --  F  --  Sothis Regalia M  --
+35717  --  494  --  F  --  Sothis Regalia F  --
 35718  --  495  --  M  --  Sauna Outfit M  --
 35719  --  496  --  F  --  Sauna Outfit M  --
 35720  --  497  --  M  --  Summer Wear M  --
