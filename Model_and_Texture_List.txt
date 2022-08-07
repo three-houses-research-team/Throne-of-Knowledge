@@ -3024,6 +3024,18 @@ Global  --  Local  --  Gender  --  Description  --
 --- DLC Outfits ---
 Global  --  Local  --  Gender  --  Description  --
 -----------------------------------------------------------
+
+35714  --  491  --  M  --  House Loungewear M  --
+35715  --  492  --  F  --  House Loungewear F  --
+35716  --  493  --  M  --  Sothis Regalia M  --
+35717  --  494  --  F  --  Sothis Regalia M  --
+35718  --  495  --  M  --  Sauna Outfit M  --
+35719  --  496  --  F  --  Sauna Outfit M  --
+35720  --  497  --  M  --  Summer Wear M  --
+35721  --  498  --  F  --  Summer Wear M  --
+35722  --  499  --  M  --  Evening Wear M  --
+35723  --  500  --  F  --  Evening Wear M  --  
+
 35748  --  525  --  F  --  Servant's Attire F (Custom)  --
 35749  --  526  --  M  --  Servant's Attire M (Custom)  --
 35750  --  527  --  F  --  Servant's Attire F (Classic)  --
