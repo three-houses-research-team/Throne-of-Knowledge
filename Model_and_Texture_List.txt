@@ -2995,3 +2995,208 @@ Female Dancer
 0x???? = 5889 = 
 0x???? = 5890 = 
 0x???? = 5891 = 
+
+-----------------------------------------------------------
+-----------------------------------------------------------
+---- Update 1 (DLC1) - 010055D009F79001 ----
+-----------------------------------------------------------
+-----------------------------------------------------------
+#TODO
+
+
+-----------------------------------------------------------
+-----------------------------------------------------------
+---- Update 2 (DLC2) - 010055D009F79002 ----
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+--- DLC Classes ---
+Global  --  Local  --  Gender  --  Description  --
+-----------------------------------------------------------
+35740  --  517  --  M  --  Trickster M  --
+35741  --  518  --  F  --  Trickster F  --
+35742  --  519  --  M  --  War Monk M  --
+35743  --  520  --  F  --  War Cleric F  --
+35744  --  521  --  F  --  Trickster F Anna  --
+35745  --  522  --  F  --  Valkyrie F  --
+35747  --  524  --  F  --  Dark Flier F  --
+
+--- DLC Outfits ---
+Global  --  Local  --  Gender  --  Description  --
+-----------------------------------------------------------
+35748  --  525  --  F  --  Servant's Attire F (Custom)  --
+35749  --  526  --  M  --  Servant's Attire M (Custom)  --
+35750  --  527  --  F  --  Servant's Attire F (Classic)  --
+35751  --  528  --  M  --  Servant's Attire M  (Classic)  --
+
+35790  --  567  --  M  --  Byleth Glasses  --
+35791  --  568  --  F  --  Byleth Glasses  --
+
+--- Mounts ---
+Global  --  Local  --  Gender  --  Description  --
+-----------------------------------------------------------
+35758  --  535  --  F  --  Dark Flier's Winged Horse  --
+35759  --  536  --  F  --  Valkyrie's Horse  --
+
+--- Class Palettes ---
+Global  --  Local  --  Gender  --  Description  --
+-----------------------------------------------------------
+35986  --  763  --  M  --  Trickster M  --  Red
+35987  --  764  --  M  --  Trickster M  --  Blue
+35988  --  765  --  M  --  Trickster M  --  Yellow
+35989  --  766  --  M  --  Trickster M  --  Grey/Red
+35990  --  767  --  M  --  Trickster M  --  Black/Red
+35991  --  768  --  M  --  Trickster M  --  Green
+35992  --  769  --  M  --  Trickster M  --  Grey/Blue
+35993  --  770  --  M  --  Trickster M  --  Brown
+35994  --  771  --  M  --  Trickster M  --  Silver/Blue
+35995  --  772  --  F  --  Trickster F  --  Red
+35996  --  773  --  F  --  Trickster F  --  Blue
+35997  --  774  --  F  --  Trickster F  --  Yellow
+35998  --  775  --  F  --  Trickster F  --  Grey/Red
+35999  --  776  --  F  --  Trickster F  --  Black/Red
+36000  --  777  --  F  --  Trickster F  --  Green
+36001  --  778  --  F  --  Trickster F  --  Grey/Blue
+36002  --  779  --  F  --  Trickster F  --  Brown
+36003  --  780  --  F  --  Trickster F  --  Silver/Blue
+36004  --  781  --  M  --  War Monk  --  Red
+36005  --  782  --  M  --  War Monk  --  Blue
+36006  --  783  --  M  --  War Monk  --  Yellow
+36007  --  784  --  M  --  War Monk  --  Grey/Red
+36008  --  785  --  M  --  War Monk  --  Black/Red
+36009  --  786  --  M  --  War Monk  --  Green
+36010  --  787  --  M  --  War Monk  --  Grey/Blue
+36011  --  788  --  M  --  War Monk  --  Brown
+36012  --  789  --  M  --  War Monk  --  Silver/Blue
+36013  --  790  --  F  --  War Cleric  --  Red
+36014  --  791  --  F  --  War Cleric  --  Blue
+36015  --  792  --  F  --  War Cleric  --  Yellow
+36016  --  793  --  F  --  War Cleric  --  Grey/Red
+36017  --  794  --  F  --  War Cleric  --  Black/Red
+36018  --  795  --  F  --  War Cleric  --  Green
+36019  --  796  --  F  --  War Cleric  --  Grey/Blue
+36020  --  797  --  F  --  War Cleric  --  Brown
+36021  --  798  --  F  --  War Cleric  --  Silver/Blue
+36022  --  799  --  F  --  Valkyrie  --  Red
+36023  --  800  --  F  --  Valkyrie  --  Blue
+36024  --  801  --  F  --  Valkyrie  --  Yellow
+36025  --  802  --  F  --  Valkyrie  --  Grey/Red
+36026  --  803  --  F  --  Valkyrie  --  Black/Red
+36027  --  804  --  F  --  Valkyrie  --  Green
+36028  --  805  --  F  --  Valkyrie  --  Grey/Blue
+36029  --  806  --  F  --  Valkyrie  --  Brown
+36030  --  807  --  F  --  Valkyrie  --  Silver/Blue
+36031  --  808  --  F  --  Dark Flier  --  Red
+36032  --  809  --  F  --  Dark Flier  --  Blue
+36033  --  810  --  F  --  Dark Flier  --  Yellow
+36034  --  811  --  F  --  Dark Flier  --  Grey/Red
+36035  --  812  --  F  --  Dark Flier  --  Black/Red
+36036  --  813  --  F  --  Dark Flier  --  Green
+36037  --  814  --  F  --  Dark Flier  --  Grey/Blue
+36038  --  815  --  F  --  Dark Flier  --  Brown
+36039  --  816  --  F  --  Dark Flier  --  Silver/Blue
+
+36094  --  871  --  F  --  Dark Flier Barding  --  Red
+36095  --  872  --  F  --  Dark Flier Barding  --  Blue
+36096  --  873  --  F  --  Dark Flier Barding  --  Yellow
+36097  --  874  --  F  --  Dark Flier Barding  --  Grey/Red
+36098  --  875  --  F  --  Dark Flier Barding  --  Black/Red
+36099  --  876  --  F  --  Dark Flier Barding  --  Green
+36100  --  877  --  F  --  Dark Flier Barding  --  Grey/Blue
+36101  --  878  --  F  --  Dark Flier Barding  --  Brown
+36102  --  879  --  F  --  Dark Flier Barding  --  Silver/Blue
+36103  --  880  --  F  --  Valkyrie Barding  --  Red
+36104  --  881  --  F  --  Valkyrie Barding  --  Blue
+36105  --  882  --  F  --  Valkyrie Barding  --  Yellow
+36106  --  883  --  F  --  Valkyrie Barding  --  Grey/Red
+36107  --  884  --  F  --  Valkyrie Barding  --  Black/Red
+36108  --  885  --  F  --  Valkyrie Barding  --  Green
+36109  --  886  --  F  --  Valkyrie Barding  --  Grey/Blue
+36110  --  887  --  F  --  Valkyrie Barding  --  Brown
+36111  --  888  --  F  --  Valkyrie Barding  --  Silver/Blue
+
+36130  --  907  --  M  --  Trickster M Grey/Purple/Red  --  ?
+36131  --  908  --  M  --  War Monk M Grey/Purple/Red  --  ?
+36132  --  909  --  M  --  Servant Attire Cus. M Grey/Purp/Red  --  ?
+36133  --  910  --  F  --  Dark Flier Barding Grey/Purp/Red  --  ?
+36134  --  911  --  M  --  Valkyrie Barding Black/Blue/White  --  ?
+
+36139  --  916  --  M  --  Trickster Constance  --  Pink (Constance)
+36140  --  917  --  F  --  War Cleric Constance  --  Pink (Constance)
+36141  --  918  --  F  --  Valkyrie Constance  --  Pink (Constance)
+36142  --  919  --  F  --  Dark Flier Constance  --  Pink (Constance)
+36143  --  920  --  F  --  Maid Constance  --  Pink (Constance)
+36144  --  921  --  F  --  Dark Flier Barding Constance  --  Pink (Constance)
+36145  --  922  --  F  --  Valkyrie Barding Constance  --  Pink (Constance)
+
+36149  --  926  --  M  --  Trickster M Yuri Purple  --  Purple (Yuri)
+36150  --  927  --  F  --  Trickster F Yuri Purple  --  Purple (Yuri)
+36151  --  928  --  M  --  War Monk M Yuri Purple  --  Purple (Yuri)
+36152  --  929  --  F  --  War Cleric F Yuri Purple  --  Purple (Yuri)
+36153  --  930  --  F  --  Valkyrie F Yuri Purple  --  Purple (Yuri)
+36154  --  931  --  F  --  Dark Flier F Yuri Purple  --  Purple (Yuri)
+36155  --  932  --  F  --  Servant's Attire F Custom  --  Purple (Yuri)
+36156  --  933  --  M  --  Servant's Attire M Custom  --  Purple (Yuri)
+36161  --  938  --  F  --  Dark Flier Barding Yuri Purple  --  Purple (Yuri)
+36162  --  939  --  F  --  Valkyrie Barding Yuri Purple  --  Purple (Yuri)
+
+--- Outfit Palettes ---
+Global  --  Local  --  Gender  --  Description  --
+-----------------------------------------------------------
+35968  --  745  --  M  --  House Loungewear  --  Black Eagles
+35969  --  746  --  M  --  House Loungewear  --  Blue Lions
+35970  --  747  --  M  --  House Loungewear  --  Golden Deer
+35971  --  748  --  M  --  House Loungewear  --  Unused
+35972  --  749  --  M  --  House Loungewear  --  Unused
+35973  --  750  --  M  --  House Loungewear  --  Unused
+35974  --  751  --  M  --  House Loungewear  --  Unused
+35975  --  752  --  M  --  House Loungewear  --  Unused
+35976  --  753  --  M  --  House Loungewear  --  Black/Flames
+35977  --  754  --  F  --  House Loungewear  --  Black Eagles
+35978  --  755  --  F  --  House Loungewear  --  Blue Lions
+35979  --  756  --  F  --  House Loungewear  --  Golden Deer
+35980  --  757  --  F  --  House Loungewear  --  Unused
+35981  --  758  --  F  --  House Loungewear  --  Unused
+35982  --  759  --  F  --  House Loungewear  --  Unused
+35983  --  760  --  F  --  House Loungewear  --  Unused
+35984  --  761  --  F  --  House Loungewear  --  Unused
+35985  --  762  --  F  --  House Loungewear  --  Black/Flames
+
+36040  --  817  --  F  --  Servant Attire F Custom  --  Red
+36041  --  818  --  F  --  Servant Attire F Custom  --  Blue
+36042  --  819  --  F  --  Servant Attire F Custom  --  Yellow
+36043  --  820  --  F  --  Servant Attire F Custom  --  Grey/Red
+36044  --  821  --  F  --  Servant Attire F Custom  --  Black/Red
+36045  --  822  --  F  --  Servant Attire F Custom  --  Green
+36046  --  823  --  F  --  Servant Attire F Custom  --  Grey/Blue
+36047  --  824  --  F  --  Servant Attire F Custom  --  Brown
+36048  --  825  --  F  --  Servant Attire F Custom  --  Silver/Blue
+36049  --  826  --  M  --  Servant's Attire M Custom  --  Red
+36050  --  827  --  M  --  Servant's Attire M Custom  --  Blue
+36051  --  828  --  M  --  Servant's Attire M Custom  --  Yellow
+36052  --  829  --  M  --  Servant's Attire M Custom  --  Grey/Red
+36053  --  830  --  M  --  Servant's Attire M Custom  --  Black/Red
+36054  --  831  --  M  --  Servant's Attire M Custom  --  Green
+36055  --  832  --  M  --  Servant's Attire M Custom  --  Grey/Blue
+36056  --  833  --  M  --  Servant's Attire M Custom  --  Brown
+36057  --  834  --  M  --  Servant's Attire M Custom  --  Silver/Blue
+
+36076  --  853  --  F  --  NPC Maid?  --  Red
+36077  --  854  --  F  --  NPC Maid?  --  Blue
+36078  --  855  --  F  --  NPC Maid?  --  Yellow
+36079  --  856  --  F  --  NPC Maid?  --  Grey/Red
+36080  --  857  --  F  --  NPC Maid?  --  Black/Red
+36081  --  858  --  F  --  NPC Maid?  --  Green
+36082  --  859  --  F  --  NPC Maid?  --  Grey/Blue
+36083  --  860  --  F  --  NPC Maid?  --  Brown
+36084  --  861  --  F  --  NPC Maid?  --  Silver/Blue
+36085  --  862  --  M  --  NPC Butler?  --  Red
+36086  --  863  --  M  --  NPC Butler?  --  Blue
+36087  --  864  --  M  --  NPC Butler?  --  Yellow
+36088  --  865  --  M  --  NPC Butler?  --  Grey/Red
+36089  --  866  --  M  --  NPC Butler?  --  Black/Red
+36090  --  867  --  M  --  NPC Butler?  --  Green
+36091  --  868  --  M  --  NPC Butler?  --  Grey/Blue
+36092  --  869  --  M  --  NPC Butler?  --  Brown
+36093  --  870  --  M  --  NPC Butler?  --  Silver/Blue
+
