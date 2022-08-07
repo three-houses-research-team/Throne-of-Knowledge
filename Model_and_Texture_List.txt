@@ -3027,7 +3027,7 @@ Global  --  Local  --  Gender  --  Description  --
 35748  --  525  --  F  --  Servant's Attire F (Custom)  --
 35749  --  526  --  M  --  Servant's Attire M (Custom)  --
 35750  --  527  --  F  --  Servant's Attire F (Classic)  --
-35751  --  528  --  M  --  Servant's Attire M  (Classic)  --
+35751  --  528  --  M  --  Servant's Attire M (Classic)  --
 
 35790  --  567  --  M  --  Byleth Glasses  --
 35791  --  568  --  F  --  Byleth Glasses  --
@@ -3039,7 +3039,7 @@ Global  --  Local  --  Gender  --  Description  --
 35759  --  536  --  F  --  Valkyrie's Horse  --
 
 --- Class Palettes ---
-Global  --  Local  --  Gender  --  Description  --
+Global  --  Local  --  Gender  --  Description  -- Variant/Colour
 -----------------------------------------------------------
 35986  --  763  --  M  --  Trickster M  --  Red
 35987  --  764  --  M  --  Trickster M  --  Blue
@@ -3115,11 +3115,11 @@ Global  --  Local  --  Gender  --  Description  --
 36110  --  887  --  F  --  Valkyrie Barding  --  Brown
 36111  --  888  --  F  --  Valkyrie Barding  --  Silver/Blue
 
-36130  --  907  --  M  --  Trickster M Grey/Purple/Red  --  ?
-36131  --  908  --  M  --  War Monk M Grey/Purple/Red  --  ?
-36132  --  909  --  M  --  Servant Attire Cus. M Grey/Purp/Red  --  ?
-36133  --  910  --  F  --  Dark Flier Barding Grey/Purp/Red  --  ?
-36134  --  911  --  M  --  Valkyrie Barding Black/Blue/White  --  ?
+36130  --  907  --  M  --  Trickster M Grey/Purple/Red  -- Grey/Purple/Red
+36131  --  908  --  M  --  War Monk M Grey/Purple/Red  -- Grey/Purple/Red
+36132  --  909  --  M  --  Servant Attire Cus. M Grey/Purp/Red  -- Grey/Purple/Red
+36133  --  910  --  F  --  Dark Flier Barding Grey/Purple/Red  -- Grey/Purple/Red
+36134  --  911  --  M  --  Valkyrie Barding Black/Blue/White  -- Black/Blue/White
 
 36139  --  916  --  M  --  Trickster Constance  --  Pink (Constance)
 36140  --  917  --  F  --  War Cleric Constance  --  Pink (Constance)
@@ -3141,7 +3141,7 @@ Global  --  Local  --  Gender  --  Description  --
 36162  --  939  --  F  --  Valkyrie Barding Yuri Purple  --  Purple (Yuri)
 
 --- Outfit Palettes ---
-Global  --  Local  --  Gender  --  Description  --
+Global  --  Local  --  Gender  --  Description  -- Variant/Colour
 -----------------------------------------------------------
 35968  --  745  --  M  --  House Loungewear  --  Black Eagles
 35969  --  746  --  M  --  House Loungewear  --  Blue Lions
